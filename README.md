@@ -29,14 +29,14 @@ user creation, file management, and service enumeration.
 
 **Script:** 
 
-• Get-ComputerInfo | Select-Object CsName, OsName, OsVersion, CsProcessors, CsTotalPhysicalMemory
+- Get-ComputerInfo | Select-Object CsName, OsName, OsVersion, CsProcessors, CsTotalPhysicalMemory
 
-• New-Item -ItemType Directory -Path "C:\Labs"
-• 1..5 | ForEach-Object { New-Item -Path "C:\Labs\Folder$_.txt" -ItemType File }
+- New-Item -ItemType Directory -Path "C:\Labs"
+- 1..5 | ForEach-Object { New-Item -Path "C:\Labs\Folder$_.txt" -ItemType File }
 
-• $Password = ConvertTo-SecureString "Lab@12345" -AsPlainText -Force
-• New-LocalUser -Name "Pharaoh Hogan" -Password $Password -FullName "Pharaoh Hogan" -Description "Lab account"
-• Add-LocalGroupMember -Group "Users" -Member "Pharaoah Hogan"
+- $Password = ConvertTo-SecureString "Lab@12345" -AsPlainText -Force
+- New-LocalUser -Name "Pharaoh Hogan" -Password $Password -FullName "Pharaoh Hogan" -Description "Lab account"
+- Add-LocalGroupMember -Group "Users" -Member "Pharaoah Hogan"
 
 ---
 
