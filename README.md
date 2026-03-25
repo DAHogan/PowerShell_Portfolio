@@ -21,9 +21,9 @@ user creation, file management, and service enumeration.
 - Service enumeration and filtering
 - Script creation and execution policy management
 
-**Screenshot:** *<img width="1712" height="352" alt="image" src="https://github.com/user-attachments/assets/7aa48679-fedc-40b9-9750-a8e5227c32b8" />
-*<img width="1710" height="616" alt="image" src="https://github.com/user-attachments/assets/e8f055bf-1505-4e4b-8d7a-4d35f9669354" />
-*<img width="1710" height="344" alt="image" src="https://github.com/user-attachments/assets/790889cb-c8a3-4351-b8d3-d8bc580407ab" />*
+**Screenshot:** <img width="1712" height="352" alt="image" src="https://github.com/user-attachments/assets/7aa48679-fedc-40b9-9750-a8e5227c32b8" />
+<img width="1710" height="616" alt="image" src="https://github.com/user-attachments/assets/e8f055bf-1505-4e4b-8d7a-4d35f9669354" />
+<img width="1710" height="344" alt="image" src="https://github.com/user-attachments/assets/790889cb-c8a3-4351-b8d3-d8bc580407ab" />
 
 
 **Script:** 
