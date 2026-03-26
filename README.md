@@ -93,6 +93,6 @@ audit open ports on the system.
 ---
 
 ## Tools & Environment
-- VirtualBox 7.x on macOS (Apple Silicon)
+- UTM on macOS (Apple Silicon)
 - Windows 11 Pro (ARM64)
 - PowerShell 5.1
