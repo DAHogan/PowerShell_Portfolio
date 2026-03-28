@@ -57,8 +57,9 @@ events as a SOC analyst would during an investigation.
 **What I did:** Manually triggered logon/logoff and failed login events, 
 then located and filtered them in Event Viewer using Event ID filters.
 
-**Screenshot:** *(add screenshot of filtered 4625 events)*
+**Screenshot:**
 <img width="1728" height="1124" alt="Screenshot 2026-03-28 at 3 40 59 PM" src="https://github.com/user-attachments/assets/c7309628-7203-4f92-bb2f-c1592fc3275e" />
+<img width="3456" height="2248" alt="image" src="https://github.com/user-attachments/assets/ad07ad17-426c-4711-9739-317148da8f7b" />
 
 
 ---
