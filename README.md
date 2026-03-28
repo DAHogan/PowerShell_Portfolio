@@ -58,6 +58,8 @@ events as a SOC analyst would during an investigation.
 then located and filtered them in Event Viewer using Event ID filters.
 
 **Screenshot:** *(add screenshot of filtered 4625 events)*
+<img width="1728" height="1124" alt="Screenshot 2026-03-28 at 3 40 59 PM" src="https://github.com/user-attachments/assets/c7309628-7203-4f92-bb2f-c1592fc3275e" />
+
 
 ---
 
