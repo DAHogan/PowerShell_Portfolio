@@ -73,7 +73,8 @@ failed login events to a CSV on a recurring basis.
 - Scheduled PowerShell execution
 - Automated log export to CSV
 
-**Script:** "C:\Labs\Scripts\log_check.ps1"
+**Script:** 
+- "C:\Labs\Scripts\log_check.ps1"
 
 **Screenshot:**
 <img width="3456" height="2248" alt="image" src="https://github.com/user-attachments/assets/dbb9479e-1de9-4fe8-a1a5-db766f32dfb7" />
