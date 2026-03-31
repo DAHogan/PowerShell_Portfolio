@@ -93,7 +93,12 @@ audit open ports on the system.
 - Open port auditing with netstat
 - PID-to-process mapping via Task Manager
 
-**Screenshot:** *(add screenshot of firewall rule + netstat output)*
+**Screenshot:** 
+<img width="3456" height="2248" alt="image" src="https://github.com/user-attachments/assets/b2cd763e-b148-46af-ad67-25ee7428ae46" />
+<img width="3456" height="2248" alt="image" src="https://github.com/user-attachments/assets/5d42482e-72e0-4597-ae7c-0a1aefb983e4" />
+<img width="3456" height="2248" alt="image" src="https://github.com/user-attachments/assets/f77800ff-9dde-45c6-9196-aa186587e99c" />
+<img width="3456" height="2248" alt="image" src="https://github.com/user-attachments/assets/b66307fa-e96a-4830-91d5-88a1fa69df60" />
+<img width="3456" height="2248" alt="image" src="https://github.com/user-attachments/assets/e070cb64-7be2-42ba-ac5d-d1d8d9f55a64" />
 
 ---
 
