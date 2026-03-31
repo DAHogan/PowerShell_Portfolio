@@ -61,7 +61,6 @@ then located and filtered them in Event Viewer using Event ID filters.
 <img width="1728" height="1124" alt="Screenshot 2026-03-28 at 3 40 59 PM" src="https://github.com/user-attachments/assets/c7309628-7203-4f92-bb2f-c1592fc3275e" />
 <img width="3456" height="2248" alt="image" src="https://github.com/user-attachments/assets/ad07ad17-426c-4711-9739-317148da8f7b" />
 
-
 ---
 
 ## Project 3 — Task Scheduler Automation
@@ -74,9 +73,11 @@ failed login events to a CSV on a recurring basis.
 - Scheduled PowerShell execution
 - Automated log export to CSV
 
-**Script:** [log_check.ps1](scripts/log_check.ps1)
+**Script:** "C:\Labs\Scripts\log_check.ps1"
 
-**Screenshot:** *(add screenshot of Task Scheduler task + output CSV)*
+**Screenshot:**
+<img width="3456" height="2248" alt="image" src="https://github.com/user-attachments/assets/dbb9479e-1de9-4fe8-a1a5-db766f32dfb7" />
+<img width="3456" height="2248" alt="image" src="https://github.com/user-attachments/assets/f74d81cd-ef8b-4b72-8ed7-f0db313c3727" />
 
 ---
 
