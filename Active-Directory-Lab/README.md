@@ -26,3 +26,4 @@ Brief 2–3 sentence description of what the project is.
 
 ## Screenshots
 [embed your screenshots here with captions]
+![Portfolio Screenshot](images/screenshot.png)
