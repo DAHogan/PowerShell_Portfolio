@@ -26,4 +26,4 @@ Brief 2–3 sentence description of what the project is.
 
 ## Screenshots
 [embed your screenshots here with captions]
-![Portfolio Screenshot](images/screenshot.png)
+<img width="3456" height="2248" alt="image" src="https://github.com/user-attachments/assets/bf75fea4-5f0a-4e4d-ba7d-f2aa939a7176" />
