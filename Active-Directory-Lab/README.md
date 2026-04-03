@@ -69,11 +69,10 @@ Active-Directory-Lab/
 ### 1. AD DS role installed
 <img width="1728" height="1124" alt="Screenshot 2026-04-01 at 4 48 17 PM" src="https://github.com/user-attachments/assets/0fc15d37-09bb-4521-8fd6-4b83b3a98f7f" />
 
-
 *Active Directory Domain Services role successfully installed via Server Manager.*
 
 ### 2. First login as domain administrator
-![Domain login](screenshots/02-domain-sudofixit.png)
+<img width="3456" height="2248" alt="image" src="https://github.com/user-attachments/assets/f70c1172-b377-4002-8ec6-f576da4b7be4" />
 
 *Login screen showing `SUDOFIXIT\Administrator` confirming domain is active.*
 
