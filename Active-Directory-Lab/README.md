@@ -67,7 +67,7 @@ Active-Directory-Lab/
 > **Note:** The domain controller promotion wizard screenshot was not captured — the server was already promoted prior to documentation setup.
 
 ### 1. AD DS role installed
-<img width="1728" height="1124" alt="Screenshot 2026-04-01 at 4 48 17 PM" src="https://github.com/user-attachments/assets/0fc15d37-09bb-4521-8fd6-4b83b3a98f7f" />
+![AD DS Install](Active-Directory-Lab/Screenshots/Screenshot 2026-04-01 at 4.48.17 PM)
 
 *Active Directory Domain Services role successfully installed via Server Manager.*
 
