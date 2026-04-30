@@ -67,7 +67,7 @@ Active-Directory-Lab/
 > **Note:** The domain controller promotion wizard screenshot was not captured — the server was already promoted prior to documentation setup.
 
 ### 1. AD DS role installed
-![AD DS Install](png)
+![AD DS Install](https://github.com/DAHogan/PowerShell_Portfolio/blob/main/Active-Directory-Lab/Screenshots/01-adds-install.png?raw=true)
 
 *Active Directory Domain Services role successfully installed via Server Manager.*
 
