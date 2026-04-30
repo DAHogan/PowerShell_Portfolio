@@ -77,7 +77,7 @@ Active-Directory-Lab/
 *Login screen showing `SUDOFIXIT\Administrator` confirming domain is active.*
 
 ### 3. OU structure in ADUC
-![OU structure](screenshots/03-aduc-ous.png)
+![OU structure](https://github.com/DAHogan/PowerShell_Portfolio/blob/main/Active-Directory-Lab/Screenshots/04-aduc-ous.png?raw=true)
 
 *Organizational Units created to mirror a real business: IT, HR, and Workstations.*
 
