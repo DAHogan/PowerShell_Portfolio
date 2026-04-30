@@ -82,7 +82,7 @@ Active-Directory-Lab/
 *Organizational Units created to mirror a real business: IT, HR, and Workstations.*
 
 ### 4. Users and security groups
-![Users and groups](screenshots/04-users-groups.png)
+![Users and groups](https://github.com/DAHogan/PowerShell_Portfolio/blob/main/Active-Directory-Lab/Screenshots/05-users-groups.png?raw=true)
 
 *Domain user accounts created inside OUs with a security group for IT staff.*
 
