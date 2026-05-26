@@ -87,7 +87,7 @@ Active-Directory-Lab/
 *Domain user accounts created inside OUs with a security group for IT staff.*
 
 ### 5. Windows 11 joined to domain
-![Domain join](screenshots/05-win11-domain-join.png)
+![Domain join]([screenshots/05-win11-domain-join.png](https://github.com/DAHogan/PowerShell_Portfolio/blob/main/Active-Directory-Lab/Screenshots/06_Domain_Join.png?raw=true))
 
 *Windows 11 Pro successfully joined to `SudoFixIt.local` and logged in as a domain user.*
 
