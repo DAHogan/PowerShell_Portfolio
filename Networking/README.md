@@ -108,7 +108,7 @@ Windows-IT-Lab/
 *Forward lookup zone for `SudoFixIt.local` showing A and SOA records in DNS Manager.*
 
 #### 2. DNS reverse lookup zone
-![DNS reverse zone](Phase2-Networking/screenshots/02-dns-reverse-zone.png)
+![DNS reverse zone](https://github.com/DAHogan/PowerShell_Portfolio/blob/main/Networking/screenshots/2.%20DNS%20reverse%20lookup%20zone.png?raw=true)
 
 *Reverse lookup zone for the `192.168.64.x` subnet with PTR record pointing back to the server.*
 
