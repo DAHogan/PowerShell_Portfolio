@@ -100,37 +100,6 @@ Windows-IT-Lab/
 
 ## Screenshots
 
-### Phase 1 — Active Directory
-
-> **Note:** The domain controller promotion wizard screenshot was not captured — the server was already promoted prior to documentation setup.
-
-#### 1. AD DS role installed
-![AD DS install](Phase1-ActiveDirectory/screenshots/01-adds-install.png)
-
-*Active Directory Domain Services role successfully installed via Server Manager.*
-
-#### 2. First login as domain administrator
-![Domain login](Phase1-ActiveDirectory/screenshots/02-domain-sudofixit.png)
-
-*Login screen showing `SUDOFIXIT\Administrator` confirming domain is active.*
-
-#### 3. OU structure in ADUC
-![OU structure](Phase1-ActiveDirectory/screenshots/03-aduc-ous.png)
-
-*Organizational Units created to mirror a real business: IT, HR, and Workstations.*
-
-#### 4. Users and security groups
-![Users and groups](Phase1-ActiveDirectory/screenshots/04-users-groups.png)
-
-*Domain user accounts created inside OUs with a security group for IT staff.*
-
-#### 5. Windows 11 joined to domain
-![Domain join](Phase1-ActiveDirectory/screenshots/05-win11-domain-join.png)
-
-*Windows 11 Pro successfully joined to `SudoFixIt.local` and logged in as a domain user.*
-
----
-
 ### Phase 2 — Networking
 
 #### 1. DNS forward lookup zone
