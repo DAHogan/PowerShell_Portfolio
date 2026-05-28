@@ -103,7 +103,7 @@ Windows-IT-Lab/
 ### Phase 2 — Networking
 
 #### 1. DNS forward lookup zone
-![DNS forward zone](Phase2-Networking/screenshots/01-dns-forward-zone.png)
+![DNS forward zone](https://github.com/DAHogan/PowerShell_Portfolio/blob/main/Networking/screenshots/1.%20DNS%20forward%20lookup%20zone.png?raw=true)
 
 *Forward lookup zone for `SudoFixIt.local` showing A and SOA records in DNS Manager.*
 
