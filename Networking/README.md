@@ -118,7 +118,7 @@ Windows-IT-Lab/
 *DHCP scope covering `192.168.64.50`–`192.168.64.150` with DNS and gateway options set.*
 
 #### 4. DHCP reservation
-![DHCP reservation](https://github.com/DAHogan/PowerShell_Portfolio/blob/main/Networking/screenshots/Reservation%20for%20Computer%20-01.png?raw=true,https://github.com/DAHogan/PowerShell_Portfolio/blob/main/Networking/screenshots/4.%20Scope%20Confirmation%20via%20ipconfig.png?raw=true,https://github.com/DAHogan/PowerShell_Portfolio/blob/main/Networking/screenshots/4.%20Scope%20Options.png?raw=true)
+![DHCP reservation](https://github.com/DAHogan/PowerShell_Portfolio/blob/main/Networking/screenshots/Reservation%20for%20Computer%20-01.png?raw=true;https://github.com/DAHogan/PowerShell_Portfolio/blob/main/Networking/screenshots/4.%20Scope%20Confirmation%20via%20ipconfig.png?raw=true;https://github.com/DAHogan/PowerShell_Portfolio/blob/main/Networking/screenshots/4.%20Scope%20Options.png?raw=true)
 
 *Windows 11 client MAC address reserved to `192.168.64.50` — UTM gateway was faster to assign IP ADDR.*
 
