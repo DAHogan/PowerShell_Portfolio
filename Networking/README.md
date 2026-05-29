@@ -113,12 +113,12 @@ Windows-IT-Lab/
 *Reverse lookup zone for the `192.168.64.x` subnet with PTR record pointing back to the server.*
 
 #### 3. DHCP scope configured
-![DHCP scope](https://github.com/DAHogan/PowerShell_Portfolio/blob/main/Networking/screenshots/DHCP%20ADDR%20POOL.png?raw=true)
+![DHCP scope]([https://github.com/DAHogan/PowerShell_Portfolio/blob/main/Networking/screenshots/DHCP%20ADDR%20POOL.png?raw=true](https://github.com/DAHogan/PowerShell_Portfolio/blob/main/Networking/screenshots/3.%20DHCP%20Address%20Pool.png?raw=true))
 
 *DHCP scope covering `192.168.64.50`–`192.168.64.150` with DNS and gateway options set.*
 
 #### 4. DHCP reservation
-![DHCP reservation](https://github.com/DAHogan/PowerShell_Portfolio/blob/main/Networking/screenshots/Reservation%20for%20Computer%20-01.png?raw=true)
+![DHCP reservation](https://github.com/DAHogan/PowerShell_Portfolio/blob/main/Networking/screenshots/4.%20Reservation%20for%20Computer%20-01.png?raw=true)
 ![DHCP reservation](https://github.com/DAHogan/PowerShell_Portfolio/blob/main/Networking/screenshots/4.%20Scope%20Confirmation%20via%20ipconfig.png?raw=true)
 ![DHCP reservation](https://github.com/DAHogan/PowerShell_Portfolio/blob/main/Networking/screenshots/4.%20Scope%20Options.png?raw=true)
 
