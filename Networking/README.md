@@ -125,7 +125,7 @@ Windows-IT-Lab/
 *Windows 11 client MAC address reserved to `192.168.64.50` — UTM gateway was faster to assign the MAC address.*
 
 #### 5. GPO linked to IT OU
-![GPO IT policy](Phase2-Networking/screenshots/05-gpo-it-policy.png)
+![GPO IT policy](https://github.com/DAHogan/PowerShell_Portfolio/blob/main/Networking/screenshots/5.%20GPO%20linked%20to%20IT%20OU.png?raw=true)
 
 *`IT-LockScreen-Policy` GPO created and linked to the IT OU in Group Policy Management.*
 
