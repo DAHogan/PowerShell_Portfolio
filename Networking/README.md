@@ -126,6 +126,7 @@ Windows-IT-Lab/
 
 #### 5. GPO linked to IT OU
 ![GPO IT policy](https://github.com/DAHogan/PowerShell_Portfolio/blob/main/Networking/screenshots/5.%20GPO%20linked%20to%20IT%20OU.png?raw=true)
+![GPO IT policy](https://github.com/DAHogan/PowerShell_Portfolio/blob/main/Networking/screenshots/5.%20GPO%20linked%20to%20IT%20OU%20(2).png?raw=true)
 
 *`IT-LockScreen-Policy` GPO created and linked to the IT OU in Group Policy Management.*
 
