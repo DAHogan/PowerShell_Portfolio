@@ -131,7 +131,7 @@ Windows-IT-Lab/
 *`IT-LockScreen-Policy` GPO created and linked to the IT OU in Group Policy Management.*
 
 #### 6. Control Panel blocked for HR user
-![GPO HR blocked](Phase2-Networking/screenshots/06-gpo-hr-controlpanel-blocked.png)
+![GPO HR blocked](https://github.com/DAHogan/PowerShell_Portfolio/blob/main/Networking/screenshots/6.%20Control%20Panel%20blocked%20for%20HR%20user.png?raw=true)
 
 *Control Panel access blocked for `bwilliams` via the `HR-RestrictControlPanel` GPO.*
 
