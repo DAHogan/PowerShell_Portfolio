@@ -113,14 +113,14 @@ Windows-IT-Lab/
 *Reverse lookup zone for the `192.168.64.x` subnet with PTR record pointing back to the server.*
 
 #### 3. DHCP scope configured
-![DHCP scope](Phase2-Networking/screenshots/03-dhcp-scope.png)
+![DHCP scope](https://github.com/DAHogan/PowerShell_Portfolio/blob/main/Networking/screenshots/DHCP%20ADDR%20POOL.png?raw=true)
 
 *DHCP scope covering `192.168.64.50`–`192.168.64.150` with DNS and gateway options set.*
 
 #### 4. DHCP reservation
-![DHCP reservation](Phase2-Networking/screenshots/04-dhcp-reservation.png)
+![DHCP reservation](https://github.com/DAHogan/PowerShell_Portfolio/blob/main/Networking/screenshots/Reservation%20for%20Computer%20-01.png?raw=truehttps://github.com/DAHogan/PowerShell_Portfolio/blob/main/Networking/screenshots/4.%20Scope%20Confirmation%20via%20ipconfig.png?raw=truehttps://github.com/DAHogan/PowerShell_Portfolio/blob/main/Networking/screenshots/4.%20Scope%20Options.png?raw=true)
 
-*Windows 11 client MAC address reserved to `192.168.64.50` — confirmed via `ipconfig /renew`.*
+*Windows 11 client MAC address reserved to `192.168.64.50` — UTM gateway was faster to assign IP ADDR.*
 
 #### 5. GPO linked to IT OU
 ![GPO IT policy](Phase2-Networking/screenshots/05-gpo-it-policy.png)
