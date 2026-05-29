@@ -122,7 +122,7 @@ Windows-IT-Lab/
 ![DHCP reservation](https://github.com/DAHogan/PowerShell_Portfolio/blob/main/Networking/screenshots/4.%20Scope%20Confirmation%20via%20ipconfig.png?raw=true)
 ![DHCP reservation](https://github.com/DAHogan/PowerShell_Portfolio/blob/main/Networking/screenshots/4.%20Scope%20Options.png?raw=true)
 
-*Windows 11 client MAC address reserved to `192.168.64.50` — UTM gateway was faster to assign IP ADDR.*
+*Windows 11 client MAC address reserved to `192.168.64.50` — UTM gateway was faster to assign the MAC address.*
 
 #### 5. GPO linked to IT OU
 ![GPO IT policy](Phase2-Networking/screenshots/05-gpo-it-policy.png)
