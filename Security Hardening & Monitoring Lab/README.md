@@ -18,25 +18,6 @@ A hands-on home lab project building a fully functional Active Directory, networ
 
 ## What I built
 
-### Phase 1 — Active Directory & user management
-- Installed the Active Directory Domain Services (AD DS) role on Windows Server 2022
-- Promoted the server to a domain controller for the `SudoFixIt.local` forest
-- Designed and created an Organizational Unit (OU) structure mirroring a real business environment
-- Created user accounts and security groups and assigned users to appropriate OUs
-- Joined a Windows 11 Pro client machine to the `SudoFixIt.local` domain
-- Logged in as a domain user and verified domain membership via ADUC and System settings
-- Practiced core help desk tasks: password resets, account lockouts, disable/enable accounts
-
-### Phase 2 — Networking (DNS, DHCP, Group Policy)
-- Configured forward and reverse lookup zones in DNS Manager
-- Tested DNS resolution using `nslookup` from the Windows 11 client
-- Installed and authorized a DHCP server in Active Directory
-- Created a DHCP scope (`192.168.64.50`–`192.168.64.150`) with DNS and gateway options
-- Created a DHCP reservation to pin the Windows 11 client to a fixed IP by MAC address
-- Created and linked Group Policy Objects (GPOs) to department OUs
-- Applied a lock screen policy to the IT OU and a Control Panel restriction to the HR OU
-- Verified GPO application using `gpupdate /force` and tested policies against domain user accounts
-
 ### Phase 3 — Security hardening & monitoring
 - Created custom inbound firewall rules in Windows Defender Firewall with Advanced Security
 - Blocked Telnet (port 23) and restricted RDP (port 3389) to the lab subnet only
@@ -124,69 +105,6 @@ Windows-IT-Lab/
 | Account lockout testing and recovery | ADUC, `gpupdate /force` |
 
 ---
-
-### Phase 1 — Active Directory
-
-> **Note:** The domain controller promotion wizard screenshot was not captured — the server was already promoted prior to documentation setup.
-
-#### 1. AD DS role installed
-![AD DS install](Phase1-ActiveDirectory/screenshots/01-adds-install.png)
-
-*Active Directory Domain Services role successfully installed via Server Manager.*
-
-#### 2. First login as domain administrator
-![Domain login](Phase1-ActiveDirectory/screenshots/02-domain-sudofixit.png)
-
-*Login screen showing `SUDOFIXIT\Administrator` confirming domain is active.*
-
-#### 3. OU structure in ADUC
-![OU structure](Phase1-ActiveDirectory/screenshots/03-aduc-ous.png)
-
-*Organizational Units created to mirror a real business: IT, HR, and Workstations.*
-
-#### 4. Users and security groups
-![Users and groups](Phase1-ActiveDirectory/screenshots/04-users-groups.png)
-
-*Domain user accounts created inside OUs with a security group for IT staff.*
-
-#### 5. Windows 11 joined to domain
-![Domain join](Phase1-ActiveDirectory/screenshots/05-win11-domain-join.png)
-
-*Windows 11 Pro successfully joined to `SudoFixIt.local` and logged in as a domain user.*
-
----
-
-### Phase 2 — Networking
-
-#### 1. DNS forward lookup zone
-![DNS forward zone](Phase2-Networking/screenshots/01-dns-forward-zone.png)
-
-*Forward lookup zone for `SudoFixIt.local` showing A and SOA records in DNS Manager.*
-
-#### 2. DNS reverse lookup zone
-![DNS reverse zone](Phase2-Networking/screenshots/02-dns-reverse-zone.png)
-
-*Reverse lookup zone for the `192.168.64.x` subnet with PTR record pointing back to the server.*
-
-#### 3. DHCP scope configured
-![DHCP scope](Phase2-Networking/screenshots/03-dhcp-scope.png)
-
-*DHCP scope covering `192.168.64.50`–`192.168.64.150` with DNS and gateway options set.*
-
-#### 4. DHCP reservation
-![DHCP reservation](Phase2-Networking/screenshots/04-dhcp-reservation.png)
-
-*Windows 11 client MAC address reserved to `192.168.64.50` — confirmed via `ipconfig /renew`.*
-
-#### 5. GPO linked to IT OU
-![GPO IT policy](Phase2-Networking/screenshots/05-gpo-it-policy.png)
-
-*`IT-LockScreen-Policy` GPO created and linked to the IT OU in Group Policy Management.*
-
-#### 6. Control Panel blocked for HR user
-![GPO HR blocked](Phase2-Networking/screenshots/06-gpo-hr-controlpanel-blocked.png)
-
-*Control Panel access blocked for `bwilliams` via the `HR-RestrictControlPanel` GPO.*
 
 ### Phase 3 — Security hardening & monitoring
 
