@@ -158,7 +158,6 @@ This project covers Phases 1 and 2 of a multi-phase Windows IT & Security Home L
 | Phase 1 | Active Directory & user management | ✅ Complete |
 | Phase 2 | Networking — DNS, DHCP, Group Policy | ✅ Complete |
 | Phase 3 | Security hardening & monitoring | 🔲 Upcoming |
-| Phase 4 | Cloud & Azure (AZ-900 prep) | 🔲 Upcoming |
 
 ---
 
