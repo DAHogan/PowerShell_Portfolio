@@ -110,7 +110,6 @@ This project is Phase 1 of a multi-phase Windows IT & Security Home Lab:
 | Phase 1 | Active Directory & user management | ✅ Complete |
 | Phase 2 | Networking — DNS, DHCP, Group Policy | 🔲 Upcoming |
 | Phase 3 | Security hardening & monitoring | 🔲 Upcoming |
-| Phase 4 | Cloud & Azure (AZ-900 prep) | 🔲 Upcoming |
 
 ---
 
